@@ -1,0 +1,11 @@
+transformers
+datasets
+torch
+scikit-learn
+nltk
+spacy
+faiss-gpu
+rouge-score
+matplotlib
+networkx
+plotly
